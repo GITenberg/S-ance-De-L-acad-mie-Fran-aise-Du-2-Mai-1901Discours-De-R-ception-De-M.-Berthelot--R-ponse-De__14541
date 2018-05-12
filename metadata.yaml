@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
     - http://fr.wikipedia.org/wiki/Jules_Lemaitre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14541#S-ance-De-L-acad-mie-Fran-aise-Du-2-Mai-1901Discours-De-R-ception-De-M.-Berthelot--R-ponse-De_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2004-12-31'
 gutenberg_type: Text
