@@ -1,0 +1,43 @@
+_repo: S-ance-De-L-acad-mie-Fran-aise-Du-2-Mai-1901Discours-De-R-ception-De-M.-Berthelot--R-ponse-De__14541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Berthelot, M. (Marcellin)
+    aliases:
+    - Berthelot, Marcellin Pierre Eugene
+    - Berthelot, Marcelin
+    - Berthelot, Marcellin Pierre Eugène
+    birthdate: 1827
+    deathdate: 1907
+    gutenberg_agent_id: '5570'
+    url: http://www.gutenberg.org/2009/agents/5570
+    wikipedia: http://fr.wikipedia.org/wiki/Marcellin_Berthelot
+  - agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14541'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bertrand, Joseph, 1822-1900'
+- !lcc 'CT'
+title: 'Séance De L''académie Française Du 2 Mai 1901
+
+  Discours De Réception De M. Berthelot; Réponse De M. Jules Lemaître'
+url: http://www.gutenberg.org/ebooks/14541
